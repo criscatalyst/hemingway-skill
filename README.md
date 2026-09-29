@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repo has moved to [criscatalyst/creator-skills](https://github.com/criscatalyst/creator-skills/tree/main/skills/hemingway).** It is archived and no longer updated: the latest version of this skill lives there.
+>
+> Install it as a plugin in Claude Code: `/plugin marketplace add criscatalyst/creator-skills` then `/plugin install hemingway@creator-skills`.
+
 # Hemingway — Claude Code skill
 
 Sentence-by-sentence readability filter for anything you write — scripts, emails, sales pages, captions, tweets. Catches the weak sentences before you publish.
